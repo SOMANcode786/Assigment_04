@@ -61,14 +61,6 @@ Feel free to check out my other repositories and contributions:
 
 ---
 
-## 📤 Assignment Submission Form
-
-Please submit your assignments or track your progress by filling out the following form:
-
-📤 [Submit Your Work Here](https://forms.gle/tS7C3sr55tUZ36GY8)
-
----
-
 ## 📑 Additional Information
 
 The projects in this repository represent my progress in mastering Python and applying those skills to solve real-world problems. They were part of my coursework for the **Modern AI Python** course, and I look forward to continuing to build on these projects as I learn more advanced topics.
@@ -91,6 +83,6 @@ Looking forward to more advanced projects in the future.
 ---
 
 ### 📌 Important Links:
-- [Assignment Projects - Homework](https://github.com/panaverse/learn-modern-ai-python/tree/main/PROJECTS/homework_projects)
-- [Assignment Projects - Online Class](https://github.com/panaverse/learn-modern-ai-python/tree/main/PROJECTS/online_class_projects)
-- [Projects to be Submitted by Students](https://github.com/panaverse/learn-modern-ai-python/blob/main/PROJECTS/projects_to_be_submitted_by_students/readme.md)
+- [Assignment Projects - Homework]
+- [Assignment Projects - Online Class]
+- [Projects to be Submitted by Students]
